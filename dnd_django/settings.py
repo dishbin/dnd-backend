@@ -60,6 +60,8 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://char-sheetz.herokuapp.com/",
+    "http://char-sheetz.herokuapp.com/",
+    "char-sheetz.herokuapp.com/",
 ]
 
 ROOT_URLCONF = 'dnd_django.urls'
