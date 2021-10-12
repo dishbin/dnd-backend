@@ -1,1 +1,1 @@
-web: gunicorn example_django.wsgi:application
+web: gunicorn dnd_django.wsgi
